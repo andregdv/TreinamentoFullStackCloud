@@ -1,2 +1,3 @@
-# TreinamentoFullStackCloud
-Criação do repositório do Curso de Full Stack Cloud
+# Treinamento FullStack Cloud
+
+Criação do repositório do Treinamento Desenvolvedor Full-Stack Cloud - C#, Azure e React
